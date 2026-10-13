@@ -1,0 +1,3 @@
+Total No of Line: 5.
+Total No of Word: 23.
+Total No of Character: 91.
