@@ -5,7 +5,9 @@ VS Code: https://code.visualstudio.com/
 
 Required Extensions for VS Code:
 Python 
-Jupyter 
+Jupyter
+
+
 
 Required Packages for Python :
 Jupyter
@@ -13,6 +15,7 @@ Ipykernel
 go to vs code terminal :
 pip install jupyter ipykernel 
 pip list
+python -m pip install numpy
 
 
 in module :4 
