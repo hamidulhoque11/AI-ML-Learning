@@ -1,0 +1,12 @@
+
+
+Name	Id	dept
+mufassir	10001	
+Hamidul	10001	cse
+apurna	10001	eee
+meskat	10001	eee
+Maruf	10001	cse
+mamun	10001	cse
+sohan	10001	bba
+emon	10001	eng
+
